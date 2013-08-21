@@ -1,4 +1,4 @@
 GrowFrame
 =========
-this's a android frame(maybe) for fasst create a app and let it go grow.
+this's a android frame(maybe) for fast create a app and let it go grow.
 
