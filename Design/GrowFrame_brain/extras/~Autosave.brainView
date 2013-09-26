@@ -1,0 +1,36 @@
+<Brain>
+  <Property name="fontSize" value="17"/>
+  <Property name="gravity" value="1.728"/>
+  <Thought id="2,4" xPos="323.0" yPos="116.0">
+    <Property name="activated" value="true"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,6" xPos="385.0" yPos="473.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,8" xPos="82.0" yPos="411.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,5" xPos="278.0" yPos="343.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,2" xPos="539.0" yPos="73.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,7" xPos="271.0" yPos="455.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,1" xPos="738.0" yPos="26.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+  <Thought id="2,3" xPos="922.0" yPos="76.0">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="true"/>
+  </Thought>
+</Brain>
